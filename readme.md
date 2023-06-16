@@ -6,7 +6,7 @@
 
 2. Clone this repo:
 
-        git clone https://github.com/herusdianto/laravel-vue-crud.git
+        git clone https://github.com/hs10530/laravel5-vue-crud-sample.git
     
 3. Once finished, change directory to laravel-vue-crud:
 
@@ -71,5 +71,3 @@
         gulp watch
     
 5. All files (components, etc) are located in `resources/assets`.
-    
-Check out the demo [here](https://www.youtube.com/watch?v=pRHGYFC5vnk).
